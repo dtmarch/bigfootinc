@@ -1,6 +1,5 @@
 #labels bigfootinc,game,blender,fun
-Ryan's Fault
-
+Big Foot Game
 = Introduction =
 
 Add your content here.
