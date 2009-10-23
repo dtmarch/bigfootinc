@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
-
-A list of reference sites.
+#summary A list of reference sites.
 
 <a href="http://wiki.blender.org/index.php/Doc:Manual/Game_Engine">BGE Manual</a><br>
 <a href="http://wiki.blender.org/index.php/Doc:Tutorials/Game_Engine/BSoD>BGE Tutorial</a><br>
