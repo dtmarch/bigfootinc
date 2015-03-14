@@ -1,0 +1,3 @@
+<a href='http://wiki.blender.org/index.php/Doc:Manual/Game_Engine'>BGE Manual</a><br>
+<a href='http://wiki.blender.org/index.php/Doc:Tutorials/Game_Engine/BSoD'>BGE Tutorial</a><br>
+<a href='http://www.blender.org/documentation/249PythonDoc/GE/index.html'>BGE API</a><br>
